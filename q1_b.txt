@@ -1,0 +1,7 @@
+This given algorithm prints output in the basis of given input. Let's analyse the best and worst cases. 
+
+Best Case:
+    Best case occurs when the input value of n is less than 5. In this case it will just print the value of input so the Best case time complexity will be O(1)
+
+Worst Case: 
+    Worst case will occur if the input value is equal or greater than 5. In this case, it will execute a loop of print statement relative to the value of n. The output is propositional to the value of n. Thus, the Worst Case time complexity will be O(n)
